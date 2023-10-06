@@ -1,0 +1,869 @@
+commit ed656c9f910460561caeb878f15b7835b30d785c
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Mon Oct 2 10:30:51 2023 +0200
+
+    Some not important modifications in the train_dota.py file
+
+commit 04c869a4a00f723d994512a7919df13b8c5ed550
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 28 10:59:13 2023 +0200
+
+    Further cleaning
+
+commit 2dbe442fa30c2bfceb15ab3c3083acad0b5b28a1
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 28 10:50:32 2023 +0200
+
+    repository cleaning
+
+commit 7753fab36b43db2a8e1c48fb4073b985a8842277
+Merge: a29d500 a94dbfb
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 28 10:24:53 2023 +0200
+
+    Merge branch 'mstryja_development' of bitbucket.org:opastor/transformer_dose into mstryja_development
+
+commit a29d5008c8932d65b19435bb5a02605dcbdc8a26
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 28 10:24:41 2023 +0200
+
+    New eval_dota_shape_experiment notebook. Modification in the testing notebook. Initialized building framework for auto-evaluation.
+
+commit a94dbfbbadfb49d4d5a1725dc84c8cb415204b31
+Merge: 6ca1ba7 f15ed05
+Author: Mikolaj Stryja <>
+Date:   Wed Sep 27 19:12:26 2023 +0200
+
+    Merge branch 'mstryja_development' of bitbucket.org:opastor/transformer_dose into mstryja_development
+
+commit 6ca1ba75bdc330fd1e68c4d63c1e2ca6e881fda6
+Author: Mikolaj Stryja <>
+Date:   Wed Sep 27 19:12:12 2023 +0200
+
+    Modifications in some files
+
+commit f15ed055f238b3d7cf260cb04d89a6057257d691
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Fri Sep 22 08:53:55 2023 +0200
+
+    Two training performed, models.py repaired, new notebooks added
+
+commit 12c4b85f124883530f0ad849284567bb09ed6cc6
+Author: M.A.Stryja <m.a.stryja@tudelft.nl>
+Date:   Thu Sep 21 16:15:08 2023 +0200
+
+    Analysis in the local_dataset_viewer.ipynb
+
+commit ff295598c4a0f7329c3ab7034a4586ec8eee4b2a
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 21 15:01:24 2023 +0200
+
+    Kernel size modified for odd number
+
+commit aa80dae7d15283b39670f2e740e328265c545164
+Merge: 8c8d1fa 2a92389
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 21 14:59:43 2023 +0200
+
+    Merge branch 'mstryja_development' of bitbucket.org:opastor/transformer_dose into mstryja_development
+
+commit 8c8d1fa72c88b59f3a6f21e835ebd5b99d8a659c
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 21 14:59:27 2023 +0200
+
+    Modified version of the architecture, bigger kernel size.
+
+commit 0c0149e06085a069a079a7a85458c66592b38bed
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 21 14:58:13 2023 +0200
+
+    Modified version of the architecture, bigger kernel size.
+
+commit 2a9238916769443ed7bfd6408631c8bdf12ef6d4
+Author: M.A.Stryja <m.a.stryja@tudelft.nl>
+Date:   Thu Sep 21 13:56:25 2023 +0200
+
+    Local tool to analyse the dataset
+
+commit 6681d917a8855c9e332a8e376ca2afe94015989f
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Wed Sep 20 18:24:29 2023 +0200
+
+    Modification of architecture. Cropping3D layer added and ZeroPadding3D added. Fitscaler slightly modified. In notebooks some changes occured, but nothing significant.
+
+commit 1dd2f4c559b4ea33f19b64e13f3f8ad2380d9e7f
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Wed Sep 20 09:58:24 2023 +0200
+
+    Modification training script to work with the dynamically choose path
+
+commit 07de1fc89d8bfb350b65f646ea9e03284c2d7a2a
+Merge: 3b48345 38174c2
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Tue Sep 19 10:53:50 2023 +0200
+
+    Merge branch 'mstryja_development' of bitbucket.org:opastor/transformer_dose into mstryja_development
+
+commit 3b483459cb1e72405572c2a45f4aa8d0bdb6de86
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Tue Sep 19 10:51:35 2023 +0200
+
+    Modifiactions in the multiple files. Added new
+    notebook for testing the generator.
+    Added new generator. Added new blocks. Added new models.
+    Added new training script.
+
+commit 38174c27694f75738b72661e0712d23a9fc9e8bf
+Author: Mikolaj Stryja <ma.stryja@gmail.com>
+Date:   Tue Sep 12 21:48:02 2023 +0200
+
+    architecture drawer added
+
+commit 48d0ba427d464c174dc47a65de646c5ab3531e81
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Tue Sep 12 21:04:23 2023 +0200
+
+    New changes
+
+commit 755c7605ec5252bb0bed669072ade5e820100422
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Tue Sep 12 19:54:17 2023 +0200
+
+    New changes
+
+commit 7a4a76fc85f06c573af17f23310c5c209e0c51b6
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Mon Sep 11 11:34:12 2023 +0200
+
+    New changes, problem with render on the different mac
+
+commit 94212c216d579ba062afc31ca51e1af0d89ef3d8
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 7 21:48:55 2023 +0200
+
+    Repo cleanup, 07.09.2023
+
+commit 9400227671e385bf71bd16645cbf3d4ddccc9f28
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Mon Sep 4 11:19:16 2023 +0200
+
+    Evaluation method added
+
+commit b048b94d295130cd0eea137daba7fe4f9a4f0072
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Sat Aug 26 18:28:51 2023 +0200
+
+    New changes
+
+commit 96fa9131b30523f9b8c752061ce4ec74dc670c18
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Sun Jul 30 13:25:38 2023 +0200
+
+    New changes. New generator created
+
+commit 60e8e6aeaa63f966e9700ad0e08dc3f7eedf7ac5
+Merge: 08e31b2 31ab42b
+Author: Dora Hoendermis <d.t.hoendermis@student.tudelft.nl>
+Date:   Wed Jun 28 16:39:29 2023 +0200
+
+    Merge branch 'feature/CT_Detector' of https://bitbucket.org/opastor/transformer_dose into feature/CT_Detector
+
+commit 08e31b2ed1c8dc2d1d61e70c50dc65fede62d503
+Author: Dora Hoendermis <d.t.hoendermis@student.tudelft.nl>
+Date:   Wed Jun 28 16:38:54 2023 +0200
+
+    added functions.py
+
+commit 31ab42b37f0cf22dba379e4872d33edc538db580
+Author: Dora Hoendermis <d.t.hoendermis@student.tudelft.nl>
+Date:   Wed Jun 28 14:07:03 2023 +0000
+
+    README.md edited online with Bitbucket
+
+commit aef70797eaf04237e1d3a50a740df8c84644d80b
+Author: Dora Hoendermis <d.t.hoendermis@student.tudelft.nl>
+Date:   Wed Jun 28 16:00:53 2023 +0200
+
+    added evaluate.jpynb
+
+commit 82c179b6783d4050f6e20c138b0d64c0571ed316
+Author: Dora Hoendermis <d.t.hoendermis@student.tudelft.nl>
+Date:   Wed Jun 28 15:52:08 2023 +0200
+
+    Code for CT detector thesis
+
+commit 08c9deceba3954e4a38b0626e06dbb468d432063
+Author: Dora Hoendermis <d.t.hoendermis@student.tudelft.nl>
+Date:   Wed Jun 28 15:09:05 2023 +0200
+
+    Test commit blocks
+
+commit 8ecb1db0f76ee3428bda3ddcaf16880372c38899
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Jun 15 13:23:12 2023 +0200
+
+    New changes accordig to the projection of the flux across flux centerline
+
+commit b5668fbb5d8abf3961c0254b9b5a154cdb8a6074
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Wed Jun 14 16:41:49 2023 +0200
+
+    New changes in the repo
+
+commit 550afa043c55ca20a8d4a0e8cd525a10939d96d5
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Mon Jun 12 23:27:02 2023 +0200
+
+    New changes in the generator. Gaussian-shape flux projection implemented. Still must be investigate.
+
+commit 231e6942e57f3c6a9b94fd0f9f8c7c69ab9a50ac
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Wed May 24 09:51:03 2023 +0200
+
+    new changes uploaded
+
+commit 6453814122708cc0644ebbadd62703b8e955476d
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Mon May 15 15:05:20 2023 +0200
+
+    Modification in the original generator
+
+commit 7bf6bbe39a0a85c7ea9592f218b7dbd1817d2fb8
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Tue May 9 00:58:35 2023 +0200
+
+    New changes. New generator initialized, src and utils directories converted to the packages
+
+commit 1255260d42beaff3a1fbba7745e1d1e93c8762be
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Mon May 8 15:54:46 2023 +0200
+
+    New changes in notebook
+
+commit bc9ed5d56690393050b71f39829b16132c3c90d4
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 15:38:59 2023 +0100
+
+    Add initial tests for preprocessing
+
+commit a66c9b0024f217d783bd2c44421e2b9e0d327eeb
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 15:16:17 2023 +0100
+
+    Fix package configuration
+
+commit 91be5b97965afef6c567b25abe425c66a3589463
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:43:45 2023 +0100
+
+    Add instruction to install dota package
+
+commit fb58353847940f7df176257ead8a1a1e3741ee4b
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:43:23 2023 +0100
+
+    Add bump2version config
+
+commit 9a4fa98d420d392f366a5d086c65a53ba2b0ec6c
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:43:05 2023 +0100
+
+    Add seaborn dependency
+
+commit c7da4cb7f60b72607fe1c99161af119c2091988a
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:42:47 2023 +0100
+
+    Reorganize evaluation notebook and data
+
+commit 800b9df1e245444872345ad13f9278e87dfa66f4
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:42:24 2023 +0100
+
+    Add tests folder
+
+commit 006bf138e01925304f5db57d32383658aefe8b39
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:42:17 2023 +0100
+
+    Update scripts and notebooks to use python package
+
+commit 6cb370b63f9e9180ffb240f65d049afd65e41d30
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:41:14 2023 +0100
+
+    Create python package
+
+commit da362ab6fe74edb1d659a9e4322ce8b95b0d8c7d
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:40:02 2023 +0100
+
+    Add python project files
+
+commit 887fb9c44c1b02cb4450cdb3ffda0d47524f6a75
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 14:34:16 2023 +0100
+
+    Update gitignore
+
+commit b49a45f44a5296ce787f706fbe780fe2a4c69ab6
+Author: Maurits Kok <mwakok@users.noreply.github.com>
+Date:   Fri Jan 13 10:24:08 2023 +0100
+
+    Add conda environment
+
+commit 998f4bb67b242eef97ff828829d2d4d72d214421
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Dec 6 10:34:01 2022 +0100
+
+    fixed evaluation bugs
+
+commit 5e1f042f9bad6dde5ee367526001b011d7884c46
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Nov 22 10:49:19 2022 +0100
+
+    first trained version, improving og model
+
+commit 4dc5d07ef62f4088e0be9ffb1e042bd6b8c44b94
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Nov 15 10:12:26 2022 +0100
+
+    first version paper
+
+commit 9c8357012353d048d8c29d0df31cbc939633d7c6
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Nov 15 09:48:27 2022 +0100
+
+    first working version
+
+commit 4d2673a322cdf9dbea9687c957862e9f4922f2e9
+Author: Nathan Geerts <N.Geerts@student.tudelft.nl>
+Date:   Tue Aug 16 18:40:03 2022 +0200
+
+    Changes to python files
+    
+    Further changes to python files to implement the beam shape token into the DoTA model
+
+commit 6fce3b124ad7ad925639cab2ccd8aa3ff434e21b
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 13:12:29 2022 +0000
+
+    Merge (4 doses/sample) with shape volumes instead of angles
+
+commit 39a07ef7c5df73e641f3ab4eb2bfe5c05e745157
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 13:09:51 2022 +0000
+
+    updated files available
+
+commit be6d287458c78178963dc43b0c09e18fd41dfa55
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 13:09:01 2022 +0000
+
+    utils/h5py/quicktwist.py edited online with Bitbucket
+
+commit 1bd71591b0a1e4b695c6e491567fc81a4b95103e
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 13:07:14 2022 +0000
+
+    Merge & crop (4 samples/dose), transposing optional
+
+commit 5457b0cde77a0c8aecf67c992baa34ad969952e5
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 12:59:21 2022 +0000
+
+    Merge & crop (1 sample/dose)
+
+commit 76fa6b84d076d532b04b7cd3f5d8304eb15e18f7
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 12:43:43 2022 +0000
+
+    incorrect (one shape for all doses)
+
+commit e4746dab5e411c74ad6002a1ed0fd24adb314433
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 12:43:14 2022 +0000
+
+    new ang2shapes files available
+
+commit 3b7de29b0a9d676b183e07203f9763491dc55eea
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 12:37:09 2022 +0000
+
+    ang2shapes (1 dose/sample) .h5 conversion
+
+commit 6507e061c20d214aa1925eb505820cbdbcf347d6
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 12:31:21 2022 +0000
+
+    ang2shapes (4 doses/sample) .h5 conversion
+
+commit f467d5b04a2c6b464ad867e5ec0424e0ea96a94b
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 12:12:49 2022 +0000
+
+    % of non-empty geometry (compute, save & plot)
+
+commit 29338d2c773f6a61ce41387c2ae36fde2d88787d
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Aug 9 11:59:09 2022 +0000
+
+    % of non-empty geometry (compute, save & plot)
+
+commit a250e4134e091a67690755d95e4afae388719aec
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Jun 7 10:57:33 2022 -0700
+
+    add energy token
+
+commit f0c4db73e7687fcc1b47e9d42637a558067488d0
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Jun 7 10:49:06 2022 -0700
+
+    change hyperparm
+
+commit aedc506fc402d46796df30fb213c4ceb77f2ac6b
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Jun 7 10:48:23 2022 -0700
+
+    initial commit
+
+commit cb962dc9d511ed365ced552ad1f4e4819747f17c
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Jun 7 14:47:52 2022 +0200
+
+    Old files split for clarity
+
+commit 984f0a916e35eb22783155cefa12b3c8b0946e32
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Jun 7 14:46:54 2022 +0200
+
+    .py files for merging and creating shape volumes from angles
+
+commit 237b3ca48f99a563e7569de46bd14382ace65a29
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Jun 7 14:45:12 2022 +0200
+
+    Training with shape volumes instead of angles
+
+commit 3e448c0e925c4921171a4188367b3f2a2dd61c73
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Jun 7 14:44:33 2022 +0200
+
+    Loading all 4 doses/sample, batch size 2
+
+commit 9f382838b2e2616826644fb8104f74850a36d38b
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Tue Jun 7 14:43:34 2022 +0200
+
+    Training as DoTA with 2 e + 2 ang
+
+commit 067957b0db48ec6585db2adeac6d9c687391cc26
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Thu May 12 14:50:10 2022 +0200
+
+    Updated evaluation functions
+
+commit c5e42d51764d258d093d980c5ec08ccc73452908
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Fri Feb 25 14:29:25 2022 +0100
+
+    Data aug. (SMX/SMY hardcoded)
+
+commit 610c0b66ae2ab98cb558cded1bd27329bdc0ce26
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Sat Feb 5 23:01:51 2022 +0100
+
+    Improved v. with no data aug. and proper minmax files
+
+commit 98709e5833f66a4951c2315f820ecc29d525f1b9
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Fri Feb 4 13:14:32 2022 +0100
+
+    Working v. from last DoTA, 4 feb
+
+commit e34081a201c39c6722d2daeb6123479d787a83d0
+Merge: dab5e1b 463c766
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Mon Jan 31 15:57:16 2022 +0100
+
+    Merge branch 'master' of https://bitbucket.org/opastor/transformer_dose
+
+commit dab5e1b6a3963da1405a7b199b1534a481177def
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Mon Jan 31 15:52:07 2022 +0100
+
+    Final version in gh
+
+commit 1b8ed632081533b965b28e68e12964e9c62d3ce0
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Mon Jan 31 14:26:54 2022 +0100
+
+    Working angles version
+
+commit dc9946c677ddccb60d6b60dbfc50ad101c4d87c5
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Sun Jan 30 14:44:00 2022 +0100
+
+    Working angles version
+
+commit fee2e1e839252dcb1c08b982222e591b75894781
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Sat Jan 29 20:38:44 2022 +0100
+
+    Non-functional angles build
+
+commit e3c201425fb48c0e87b0f27437a42d526ffb7a90
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Thu Jan 27 14:14:49 2022 +0100
+
+    First attempt
+
+commit a31ba08fa92bbd317b66a8aa99004ee30a9a4b8f
+Author: Bas Rutten <brutten@tudelft.nl>
+Date:   Sun Jan 23 16:34:14 2022 +0100
+
+    Remove unnecessary figures
+
+commit b43b17747fa473c82ecec22dcffd032d59bbca64
+Author: Berend Timmer <B.W.Timmer@student.tudelft.nl>
+Date:   Sun Jan 23 15:19:32 2022 +0100
+
+    Removing unnecessary cell
+    
+    Removal of cell 5: Evaluate and Test model. Was using irrelevant data.
+
+commit d1dc5538a85874a0407db5b312ae5d5d852d41c1
+Author: Berend Timmer <B.W.Timmer@student.tudelft.nl>
+Date:   Sun Jan 23 15:18:35 2022 +0100
+
+    Small changes in paths
+    
+    Some changes in path names and running cells a few times to obtain different plots.
+
+commit 61dd7a8839a2e18ede5f3178f5bfd04479183163
+Author: Berend Timmer <B.W.Timmer@student.tudelft.nl>
+Date:   Sat Jan 22 21:46:10 2022 +0100
+
+    Bug patches
+    
+    Changes to both eval and train dota regarding removing the suffix 'var' from file names.
+
+commit 48b6aa86238f46a05a6187641886fec2b07a36ef
+Merge: cb4168e b7f7bf7
+Author: Berend Timmer <B.W.Timmer@student.tudelft.nl>
+Date:   Sat Jan 22 21:04:18 2022 +0100
+
+    Merge remote-tracking branch 'origin/dev_AI_Capstone' into dev_AI_Capstone
+
+commit b7f7bf7dd5e050baa0468462884ea6a2878e2e2c
+Author: Bas Rutten <brutten@tudelft.nl>
+Date:   Fri Jan 21 21:42:46 2022 +0100
+
+    eval_dota for beam shape variations and early results
+    
+    new eval_dota_var file for the evaluation of the model. And early results from training the model with beam shape variation
+
+commit cb4168e87a7cb785bc784cdf43c9dacc689abd3d
+Author: Berend Timmer <B.W.Timmer@student.tudelft.nl>
+Date:   Tue Jan 18 10:46:08 2022 +0100
+
+    Deleted unnecessary commented line
+
+commit a46fc52b55f2258f8136c31a6b438d5bc6ae51d8
+Author: Bas Rutten <brutten@tudelft.nl>
+Date:   Mon Jan 17 13:53:25 2022 +0100
+
+    Update to evaluation beam_shape dimensions
+    
+    Fixed the output of the beam_shape of the evaluation function.
+    
+    eval_dota notebook should work now
+    
+    (edited this on Friday, but forgot to commit)
+
+commit 9af21d48b61d34a13d4a3b7f761a532730acc18a
+Author: Bas Rutten <brutten@tudelft.nl>
+Date:   Fri Jan 14 16:32:16 2022 +0100
+
+    Updated model and worked on evaluation
+    
+    Updated model to properly use beam shape token, now runs without crashing when using our new datasets with beam shape variations and beam shape descriptions.
+    
+    Worked on evaluation to use beam shape token, but it is still crashing
+
+commit 1948447c7c6a080fd31c60a5065fa4cb04587436
+Author: Berend Timmer <B.W.Timmer@student.tudelft.nl>
+Date:   Thu Jan 13 16:52:45 2022 +0100
+
+    Seperately flattening the beam shape and beginning to reshape
+    
+    Created self.flatten1 in the __init__ function which is later called in the call function. Dimension needs to be changed from (None,576) to (None,1,576) with reshape. Still figuring it out.
+
+commit b64c6accffcd953c8f3b7636c01cdb2ce7feef34
+Author: Bas Rutten <brutten@tudelft.nl>
+Date:   Wed Jan 12 17:19:49 2022 +0100
+
+    Progress on adding beam shape token to transformer model
+    
+    WORK IN PROGRESS. Worked on adding an extra input token for the beam shape variation.
+    
+    Unsure about the code in blocks.py line 94, encode and concat of the beam shape
+    
+    Unsure about the code in generators.py line 85, setting the size for the beam shape
+    
+    Updated hyperparam.json with the advise of Serrano
+
+commit 463c766cbd2d2d7654826ec3d0bd46acb93371da
+Author: zperko <z.perko@tudelft.nl>
+Date:   Tue Jan 11 17:55:46 2022 +0100
+
+    Added VENI to readme and explicit citation request. We should replace once AAAI and ESTRO/PMB are out
+
+commit 9a89fe5627c204489e71659faadde5f4d213b7e7
+Author: Bas Rutten <brutten@tudelft.nl>
+Date:   Tue Jan 11 16:24:54 2022 +0100
+
+    Update from Master branch
+    
+    Update to the model from Serrano
+
+commit 91687da721a86db2d9f6553ce3b92f325bbf30ab
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Jan 11 15:50:27 2022 +0100
+
+    Final pretrained model PMB
+
+commit abe1434325efa925913d595aacd5dfc59d4331fd
+Author: Oscar van Baar <oscarvanbaar@gmail.com>
+Date:   Wed Dec 15 15:28:26 2021 +0100
+
+    Added a comment where we should input the beam shape variation data
+
+commit 1a5c6643d6f2dbbbcd15ac8d457b4342905a0937
+Author: Bas Rutten <brutten@tudelft.nl>
+Date:   Tue Dec 14 15:11:35 2021 +0100
+
+    the last version of the code
+    
+    The last version of the code that Oscar uploaded to Dropbox. This commit should update the code, but don't forget to download the data from Dropbox.
+
+commit 761430047c3ae7a49dcf429e036f0ed05f528ba5
+Author: Oscar <o.pastorserrano@tudelft.nl>
+Date:   Tue Dec 14 11:22:07 2021 +0100
+
+    last pretrained model
+
+commit bedb81052acdc4fe76b022ab5a5c96ccd1347383
+Author: Jaír DIaz <j.diaz@student.tudelft.nl>
+Date:   Mon Dec 13 15:26:10 2021 +0100
+
+    Jair testing
+    
+    Small test
+
+commit ed124d2e49b5ab81ccb7a413ef9845a4641f975c
+Author: Berend Timmer <B.W.Timmer@student.tudelft.nl>
+Date:   Mon Dec 13 15:20:20 2021 +0100
+
+    Berend testing git
+    
+    Testing
+
+commit 67fd4cb91c4bf3a9ccc23d210cd9ddaea6fe2dcb
+Author: Oscar van Baar <oscarvanbaar@gmail.com>
+Date:   Mon Dec 13 10:22:45 2021 +0100
+
+    Testing git
+
+commit 30cb8dd816462251401e3517423fb22bec71d684
+Author: Oscar van Baar <oscarvanbaar@gmail.com>
+Date:   Fri Dec 10 11:05:44 2021 +0100
+
+    Testing git
+
+commit 27f2ed32ccc325d107635edbf06c3e2cb14446a6
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Wed Nov 17 15:31:40 2021 +0100
+
+    Updated version with 2 energies
+
+commit 01a247368731f57cec46ff7fbe5722a4fbb7e04a
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Nov 16 11:20:46 2021 +0100
+
+    clean version mult_energy
+
+commit d85c810d99650dda970ded939f223bf16fdc3cfa
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Mon Nov 15 14:00:28 2021 +0100
+
+    bug fix plot
+
+commit e2872efee2ac5e1c9b237a854b189083bc8183b2
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Sat Oct 23 17:26:14 2021 +0200
+
+    Removing test file
+
+commit 3b4207c96da00d24b58554fd237c4148fa8d0e6c
+Author: Jim van der Valk Bouman <jgrvandervalkbouman@gmail.com>
+Date:   Sat Oct 23 17:24:04 2021 +0200
+
+    Test commit
+
+commit 4267b0b98a25c78eb52c1daf50afbf6575b9d227
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Sep 14 09:16:55 2021 +0200
+
+    final version
+
+commit 480df68b64afe1ca29637ea44dfa01e5bf19c0f7
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Sep 3 18:31:08 2021 +0200
+
+    final version pre arxiv
+
+commit 441a963155aa842ea32d8f5ed1ffb027448e8ce2
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Sep 3 18:29:57 2021 +0200
+
+    methods and results done
+
+commit 3bf5244bbb5d5051918530057dce2694dab15607
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Wed Sep 1 16:39:54 2021 +0200
+
+    final version AAAI22
+
+commit 6e0d2a4aa6d6100aa80318b57373363df770d5ba
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Aug 27 15:06:00 2021 +0200
+
+    Changed mult_patient to single_energy. Updated Readme. Added error and time analysis
+
+commit e6583f36da3e961379215c3d8d7b70d39394135f
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Wed Aug 25 12:44:31 2021 +0200
+
+    Final version 1st manuscript.
+
+commit 0a80968823ead4d626ca714feee1fcc3f893d62d
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Sat Aug 7 11:36:23 2021 +0200
+
+    last weights & update evaluation functions
+
+commit f691bc51b3df726e5f74decf67758f910f47162d
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jul 30 13:54:27 2021 +0200
+
+    include evaluation scripts
+
+commit e9eb9df0c222600b7a5d82109133d893a8dacff8
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jul 23 00:28:07 2021 +0200
+
+    pba evaluation
+
+commit e09fb4a282e8e5d7f1c07af99a3e24477a24900d
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jul 16 12:44:07 2021 +0200
+
+    created .py files to run in terminal
+
+commit f75b4de48a2614d2522be8317db6f0cbd21c2cdb
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jul 16 12:33:01 2021 +0200
+
+    update gitignore
+
+commit bb762deaccd6affaa5a25b3ab8294c87719cb458
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jul 16 00:53:26 2021 +0200
+
+    Cutoff MC noise
+
+commit 680c4656ddff5fb60beebd29485435a2031769e6
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Wed Jul 14 12:39:49 2021 +0200
+
+    modifications to evaluation and gamma analysis
+
+commit 766ab6bb83df0491b9c8b1926fece6f31f5f2a6b
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Mon Jul 12 11:53:05 2021 +0200
+
+    renaming, cleaning
+
+commit cd80a6dd3b9ba1d00c2c3320ee548ea91b0fdd25
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Sat Jul 10 18:14:38 2021 +0200
+
+    multi energy model
+
+commit 68ddc144937d2e4de5a58bc52daecdf71c5e5539
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Jul 6 12:11:43 2021 +0200
+
+    fix error weights2
+
+commit 0020282ecd8e89e3aea8f2e588a8af438021df53
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Jul 6 12:10:35 2021 +0200
+
+    fix error weights
+
+commit 1f8020f051c3fd163fccb4177bd38cb8e1253807
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Jul 6 12:03:05 2021 +0200
+
+    fix gitignore
+
+commit 01217a1c4ec0e0c8d1d1cf0a6dc0911b56d095e2
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Jul 6 11:59:21 2021 +0200
+
+    weights single energy/ no results
+
+commit ea4792352e08158dc867a7e1e3cdbdddc625fa0e
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Jul 6 11:56:26 2021 +0200
+
+    weights single energy
+
+commit ee163c33074c735fda1a00d1f78913d1b70190a1
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Tue Jul 6 11:36:38 2021 +0200
+
+    bug fixes + function to create models
+
+commit 85ebc4fc0e7e9c40bae36aed8eb5cd4c08aa2c08
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jun 25 14:57:29 2021 +0200
+
+    last commit pre energies
+
+commit 4678c57fec6f5cb2f27fbaca1abea9af10ef51e5
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Wed Jun 23 16:36:23 2021 +0200
+
+    Multi energy and evaluation
+
+commit 57b638a5cb25807910c490b7c7803535f3f55ef1
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jun 18 09:37:10 2021 +0200
+
+    initial commit files
+
+commit 33cea35bc7dd5d7172134f181c7ec31a713716d7
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jun 18 09:32:38 2021 +0200
+
+    initial commit
+
+commit 28e61e24599eb4ee8cb8972cda7a0333a7102551
+Author: Oscar PS <o.pastorserrano@tudelft.nl>
+Date:   Fri Jun 18 07:28:10 2021 +0000
+
+    Initial commit

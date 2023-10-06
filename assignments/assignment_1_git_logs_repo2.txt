@@ -1,0 +1,204 @@
+commit 8108cc662fa70d25ac448828398825b6caee50e1
+Author: M.A.Stryja <m.a.stryja@tudelft.nl>
+Date:   Wed Oct 4 10:32:41 2023 +0200
+
+    preapre_cts.py updated with short information about logic. This file is still empty. The script will be prepared when it will be required
+
+commit a4509531c863eab540a870f9009fcdb44c63654c
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 28 10:58:42 2023 +0200
+
+    Cleaning
+
+commit cdc97dc5d0fe206b455c4a89f663f8465df9bb37
+Merge: a5ed7fd 74fb5f9
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 28 10:58:08 2023 +0200
+
+    Merge branch 'master' of bitbucket.org:mastryja/datagenerator
+
+commit a5ed7fdc886b5119b18bc9fcc6b60fa22b511ad4
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu Sep 28 10:57:54 2023 +0200
+
+    Cleaning
+
+commit 74fb5f978ac9dcb229f85dc8f299243fe4d5d12e
+Author: M.A.Stryja <m.a.stryja@tudelft.nl>
+Date:   Wed Sep 27 14:41:47 2023 +0200
+
+    Documentation initialized
+
+commit 5ea4712a676816a68747759725daa28ccc48b98f
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Mon Jul 31 12:41:49 2023 +0200
+
+    New changes
+
+commit bcafdea90051e71cf0ac33e4dbd27a2528e6c0c1
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Mon Jul 31 12:07:50 2023 +0200
+
+    Newest changes
+
+commit 37a6fdc96358bb0f7b5d2c2b1d007317bec11277
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Fri Jul 28 18:42:14 2023 +0200
+
+    New changes
+
+commit e038f1e63cc185487739adf7c03d8e8d922620b3
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Sun Jul 16 11:28:22 2023 +0200
+
+    New changes:
+
+commit f6428b1d682e668b12f1cac69d462f9e5827b99a
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Wed Jun 21 23:15:38 2023 +0200
+
+    Problem with saving data from MCsquare simulations solved
+
+commit 2025b6add42fa547dc4e8f945d04add2a74dba3f
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Wed Jun 7 13:01:59 2023 +0200
+
+    New changes
+
+commit beb5cbb022f5163ab4f5d546d25b68ac2ba8ef91
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Tue May 30 17:03:11 2023 +0200
+
+    New changes
+
+commit 8da6bfab4437e61472c22c2722ed4610fbdf0411
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu May 25 20:33:24 2023 +0200
+
+     Readme updated
+
+commit d6742f2ad43ba743a66f72d45953dfa02a61efa6
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu May 25 20:23:51 2023 +0200
+
+    Last changes
+
+commit 477ad5980bf3100e9069895a64ee7edf2f996dbe
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu May 25 14:50:57 2023 +0200
+
+    Readme updated
+
+commit d3368173977980317f103bfba8f4d919abc8faa4
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu May 25 14:50:37 2023 +0200
+
+    Readme updated
+
+commit f28566cc1c7b2a66718df175b3a8ab59bd9d376c
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu May 25 14:48:12 2023 +0200
+
+    Try not succed
+
+commit 588e591206be675fd06ac687a9d327a63eb1980f
+Author: Mikolaj Stryja <M.A.stryja@tudelft.nl>
+Date:   Thu May 25 14:40:33 2023 +0200
+
+    New changes in datagenerator.
+
+commit a6fb30d0b6af1860d00743e60711fc4db450e4f8
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Fri May 12 13:30:15 2023 +0200
+
+    Newest changes, proton simulation is running
+
+commit fee242847772f0e0a40646e21e7c0a07fccdd305
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Mon May 8 11:26:22 2023 +0200
+
+    Old changes restored - better to keep it as reference
+
+commit eee19091c26a1a10bcd6e25215b469180525f65a
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Mon May 8 11:25:04 2023 +0200
+
+    Simulation is working properly
+
+commit eb4b630d5fe7fe37674f1c7c96ed5592dc812570
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Wed May 3 00:49:52 2023 +0200
+
+    Pipeline almost ready, problem with cropping occured. Probalby the reason is the isocenter location and shifts.
+
+commit c942fe4088d9c3efa545ffc979e0a043c402bd48
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Thu Apr 27 13:37:10 2023 +0200
+
+    New features to calculate beam ranges
+
+commit 7be4c702910c429c986a801ca50b5f27b4df278d
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Wed Apr 26 11:11:58 2023 +0200
+
+    New changes, bounding boxes in progress
+
+commit b06fb7d03836d3cb45d161c6192ef47698305a8d
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Mon Apr 24 13:35:18 2023 +0200
+
+    New changes, added visualization methods and gantry location calculation method
+
+commit 571c7ece22190bcd8e91406d278398f63d8a38d9
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Mon Apr 3 16:09:42 2023 +0200
+
+    Newest changes, some fixes
+
+commit cbcd6e69ade35a3c5af1772215fb38d49c06a53a
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Sun Apr 2 23:50:27 2023 +0200
+
+    New changes, added saving to the json file representing the treatment setup
+
+commit 3ea7ac2f7925c8412652840c3d6e1c21cb158d14
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Sun Apr 2 17:47:11 2023 +0200
+
+    Newest
+
+commit dcb019baed04459be923d995db6616230de57c24
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Sun Apr 2 16:31:46 2023 +0200
+
+    New changes
+
+commit c59d74e5577540b19115411f86174e15ce00f90a
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Sat Apr 1 16:54:26 2023 +0200
+
+    Running simulation directly from python source code works properly
+
+commit ba42b4b7a436a5ab64e1187b25d646657593d4e5
+Author: Mikolaj Stryja <mstryja@apollo.tnw.tudelft.nl>
+Date:   Fri Mar 31 19:14:04 2023 +0200
+
+    New
+
+commit 84393fd45a48d051c2592f2477c149c8ba6a058d
+Author: M.A.Stryja <m.a.stryja@tudelft.nl>
+Date:   Fri Mar 17 11:20:35 2023 +0100
+
+    Image processing
+
+commit d8af2e44a578fa8571cefe2b4923ee93e3b6edec
+Author: M.A.Stryja <m.a.stryja@tudelft.nl>
+Date:   Fri Mar 17 11:02:45 2023 +0100
+
+    Init commit
+
+commit 1fe22c3a4b1b9675caf9147b2d1891afa1f2c35e
+Author: M.A.Stryja <m.a.stryja@tudelft.nl>
+Date:   Tue Mar 14 12:52:57 2023 +0000
+
+    Initial commit
